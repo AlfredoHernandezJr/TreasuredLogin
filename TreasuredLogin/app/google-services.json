@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750828058214",
+    "firebase_url": "https://treasured-login-f9a05.firebaseio.com",
+    "project_id": "treasured-login-f9a05",
+    "storage_bucket": "treasured-login-f9a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750828058214:android:1c9c6f4f1411671333dfa7",
+        "android_client_info": {
+          "package_name": "edu.miracostacollege.cs134.treasuredloginahernandez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750828058214-s3pd5gp5kgontie7cnqmunetbfc397hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.miracostacollege.cs134.treasuredloginahernandez",
+            "certificate_hash": "c20c36821cbca4bca943c92adcb8ce7fd72f4026"
+          }
+        },
+        {
+          "client_id": "750828058214-e7sh8oe07o1m8lop4va4ku3gg27erdjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxxKT2aCoXM82GiP8EfvDOud83nTrrAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750828058214-e7sh8oe07o1m8lop4va4ku3gg27erdjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
